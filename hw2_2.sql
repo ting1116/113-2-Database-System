@@ -13,7 +13,7 @@ CREATE TABLE self (
 );
 
 INSERT INTO self
-VALUES ('r13631016', '生機所', 1, '翁于婷');
+VALUES ('r00000000', '000', 0, 'yu-ting');
 
 SELECT DATABASE();
 SELECT * FROM self;
